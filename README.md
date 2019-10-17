@@ -6,7 +6,8 @@ Version 0.8 shows an example application in South Africa
 * R Code in <a href="https://github.com/sommergeo/shore_travelleR/blob/master/shore_travelleR.R" target="_blank">shore_travellerR</a>
 * Bathimetric data and sea level curve in <a href="https://github.com/sommergeo/shore_travelleR/tree/master/data" target="_blank">data</a>
 
-## Example from Sibudu Cave and Umbeli Belli
+## Examples
+These examples show the Late Pleistocene shore reconstruction of Sibudu Cave and Umbeli Belli on the South African East Coast (KwaZulu-Natal). It's part of my thesis...
 
 ![Shoreline distance reconstruction of Sibudu Cave and Umbeli Belli](/img/sibudu_umbeli_shore-distance_2019-07-17.png)
 
