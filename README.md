@@ -7,6 +7,8 @@
 
  *Shoreline distance reconstruction of Sibudu Cave and Umbeli Belli*
 
+
+
 ![Shelf area of the Natal Bight](/img/sibudu_shelf-area_2017-07-17.png)
 
  *Shelf area of the Natal Bight during the Late Pleistocene*
