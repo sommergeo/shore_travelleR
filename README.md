@@ -24,3 +24,8 @@ These examples show the Late Pleistocene shore reconstruction of Sibudu Cave and
 ![Workflow diagram of the shore_travelleR](/img/sealevel_model_workflow.png)
 
  *Workflow diagram of the shore_travelleR*
+
+## License
+This work is distributed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC-BY-SA 4.0</a> license. This means you are allowed to **share** and **adapt** data and products. In return, you are requested to give appropriate **credit** and share under the same **license**.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
